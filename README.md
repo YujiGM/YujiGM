@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
@@ -26,13 +26,23 @@
 
 ###
 
-<p align="left">I'm from Brazil<br><br>- 🔭 I’m working as Aprendiz at Dexco S.A<br>- 📚 I'm currently learning Data Science<br></p>
+<p align="left">20y. I'm studying at FATEC ITAPETININGA<br><br>- 🔭 I’m working as Aprendiz at Dexco S.A<br>- 📚 I'm currently learning Data Science<br></p>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+
+<h3 align="left">Python</h3>
+
+<h3 align="left">Java</h3>
+
+<h3 align="left">SQL</h3>
+
+<h3 align="left">API Rest</h3>
+
+<h3 align="left">HTML</h3>
 
 
 ###
