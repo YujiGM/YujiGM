@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">20y. I'm studying at FATEC ITAPETININGA<br><br>- 🔭 I’m working as Aprendiz at Dexco S.A<br>- 📚 I'm currently learning Data Science<br></p>
+<p align="left">20y. I'm studying Analysis and Systems Development at FATEC ITAPETININGA<br><br>- 🔭 I’m working as Aprendiz at Dexco S.A.<br>- 📚 I'm currently learning Data Science.<br></p>
 
 ###
 
